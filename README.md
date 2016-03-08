@@ -1,7 +1,10 @@
-#GDG Aracaju - Intro
+#GDG Duque de Caxias - Intro
 
-An introduction presentation for GDG Aracaju events.
+An introduction presentation for GDG Duque de Caxias events.
 
-GDG Aracaju is a local chapter of Google Developers Group on Aracaju, Brazil. [Visit our website.](http://gdgaracaju.com.br/)
+GDG Duque de Caxias is a local chapter of Google Developers Group on Duque de Caxias, Rio de Janeiro, Brazil. [Visit our website.](http://gdg-duque-de-caxias.github.io/)
 
 This presentation was created with the HTML Presentation Framework [reveal.js](https://github.com/hakimel/reveal.js/).
+
+Adptado por Gabriel Lima.
+Thanks GDG Aracaju pelo template.
